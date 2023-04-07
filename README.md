@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Cristina 👋</h1>
 <br>
-I'm a Java Developer and Spring enthusiast
+I'm a Java Developer and Spring enthusiast<br>
 🌱 I’m currently learning Java 17+ <br>
 👯 I’m looking to collaborate with other developers<br>
 🥅 2023 Goals: Contribute more to Open Source projects<br>
@@ -18,7 +18,8 @@ I'm a Java Developer and Spring enthusiast
 <br>
 <br>
 <h2>Connect with me:</h2>
-<img align="left" alt="yourwebsite.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /><br>
+<img align="left" alt="https://www.linkedin.com/in/cristina-totovina-58a9291b2/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /><br>
 
+<br>
 <br>
 ⭐️ From Cristina
