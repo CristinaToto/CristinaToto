@@ -18,7 +18,8 @@ I'm a Java Developer and Spring enthusiast<br>
 <br>
 <br>
 <h2>Connect with me:</h2>
-<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /><br>
+<a href="https://www.linkedin.com/in/cristina-totovina-58a9291b2/"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a><br>
+
 
 <br>
 <br>
